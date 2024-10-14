@@ -4,6 +4,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+.test
 .classpath
 .settings/
 .loadpath
